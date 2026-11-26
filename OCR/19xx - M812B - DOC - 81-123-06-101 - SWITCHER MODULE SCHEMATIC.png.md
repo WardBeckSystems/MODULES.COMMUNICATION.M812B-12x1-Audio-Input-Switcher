@@ -25,7 +25,7 @@ Wiki page: [Documents](../../../../PAGES/Documents.md)
 - **Words (OCR):** 79 in 67 lines: Noreei · AJALL Resistor · DIc · INPUTS · A~D ALL · COVECNENT DEsisVAT · 4PCB 1-122 · ARE · C6os 3603,3813 · 48 · 8483 · EET
 - **Title block:** (359, 24)–(432, 46) mm: be Lebi · REVISION · WBS WAAD-BECK SYSTEME · M8128
 
-Every curve, box, word and wire group: [19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M812B%20-%20DOC%20-%2081-123-06-101%20-%20SWITCHER%20MODULE%20SCHEMATIC%20(traced).json) (the CAD file: `19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC (traced).dxf`).
+Every curve, box, word and wire group: [19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC (traced).json](../SCHEMATICS/19xx%20-%20M812B%20-%20DOC%20-%2081-123-06-101%20-%20SWITCHER%20MODULE%20SCHEMATIC%20%28traced%29.json) (the CAD file: `19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC (traced).dxf`).
 
 ## Full text
 
