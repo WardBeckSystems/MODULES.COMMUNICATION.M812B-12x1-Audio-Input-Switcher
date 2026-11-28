@@ -1,6 +1,6 @@
 # M812B 12x1 Audio Input Switcher · Communication
 
-Ward-Beck Systems M812B. Wiki page: [M812B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/PAGES/M812B.html)
+Ward-Beck Systems M812B. Wiki page: [M812B on WBSps.ca](https://wardbecksystems.github.io/WBSps.ca/WBSps.ca/Github.WardBeckSystems/MODULES.COMMUNICATION.M812B-12x1-Audio-Input-Switcher/)
 
 | Folder | What is in it | Files |
 |---|---|---|
