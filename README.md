@@ -32,7 +32,7 @@ _Photographs of the module itself: front, back, inside, racked._
 _Electrical drawings: schematics (-02-), functional diagrams (-01-), component layouts (-06-), wiring (-09-), PCB files (.pcb .dsn), and beside each scan its `(EXTRACTED).svg`: the vectors traced from it._
 
 <table>
-<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/102KGwz05J_64sCvLBrUbeq3UWqAWtMJM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=102KGwz05J_64sCvLBrUbeq3UWqAWtMJM" width="240" alt="19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC.png"></a><br><sub>19xx - M812B - DOC - 81-123-06-101 - SWITCHER MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M812B%20-%20DOC%20-%2081-123-06-101%20-%20SWITCHER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
+<tr><td align="center" valign="top" width="33%"><a href="https://drive.google.com/file/d/102KGwz05J_64sCvLBrUbeq3UWqAWtMJM/view" title="Open on Google Drive"><img src="https://drive.google.com/thumbnail?sz=w480&id=102KGwz05J_64sCvLBrUbeq3UWqAWtMJM" width="240" alt="19xx - M812B - DOC - [DWG 81-123-06-101] - SWITCHER MODULE SCHEMATIC.png"></a><br><sub>19xx - M812B - DOC - [DWG 81-123-06-101] - SWITCHER MODULE SCHEMATIC · <a href="SCHEMATICS/19xx%20-%20M812B%20-%20DOC%20-%20%5BDWG%2081-123-06-101%5D%20-%20SWITCHER%20MODULE%20SCHEMATIC%20(EXTRACTED).svg">vectors</a></sub></td></tr>
 </table>
 
 ## KiCad
